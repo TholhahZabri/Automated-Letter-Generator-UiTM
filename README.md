@@ -4,6 +4,9 @@ Simple letter generator for Lecturer in UiTM to use . Basically to help lecturer
 ## Special Thanks to 
 1. Afif Zafri
 2. Shahril
+3. Syed Muhamad Danial
+4. Fawwaz Hakim
+5. Wan Khair
 
 ## License
 Feel free to use, distributed, alter and share
